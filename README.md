@@ -29,8 +29,4 @@ I'm most interested in **back-end development** and **games**, and I like buildi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## Get in touch
-
-[LinkedIn](https://www.linkedin.com/in/andre-noro/) · andrenoro2004@gmail.com
-
 🇧🇷 Portuguese (native) · 🇺🇸 English (advanced) · Based in Brazil (GMT-3) · Open to internships
